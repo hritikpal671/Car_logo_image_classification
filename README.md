@@ -35,7 +35,7 @@ Dataset Link = https://drive.google.com/file/d/1ppmCgZhKb3lffg5UgOmQsLLdgGmMRtaq
 1. Clone this repository to your local machine:
 
 ```
-git clone [https://github.com/hritikpal671/Car_logo_image_classification.git](https://github.com/hritikpal671/Car_logo_image_classification.git)
+git clone https://github.com/hritikpal671/Car_logo_image_classification.git
 ```
 
 2. Navigate to the project directory:
